@@ -1,5 +1,5 @@
 # DEVOPS PROCESS FLOW
-![DevOps Process Flow](/workspaces/Concepts-of-DevOps/DevOps Process Flow (1).jpg)
+![Devops process flow logo](/workspaces/Concepts-of-DevOps/DevOps Process Flow.drawio.png "Devops process flow logo")
 
 While the specifics of a DevOps process might vary depending on the organization and technology stack, here's a general flowchart visualizing the key stages:
 

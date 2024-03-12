@@ -1,5 +1,5 @@
 # DEVOPS PROCESS FLOW
-![Devops process flow](https://drive.google.com/file/d/1PyQJkZV2lUUOjkMSQAqRn4nheFYCfxqH/view?usp=drive_link)
+![Devops process flow](https://drive.google.com/file/d/1PyQJkZV2lUUOjkMSQAqRn4nheFYCfxqH/view?usp=sharing)
 
 While the specifics of a DevOps process might vary depending on the organization and technology stack, here's a general flowchart visualizing the key stages:
 
